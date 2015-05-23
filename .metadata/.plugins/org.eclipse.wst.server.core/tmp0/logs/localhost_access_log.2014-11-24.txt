@@ -1,0 +1,9 @@
+127.0.0.1 - - [24/Nov/2014:15:59:49 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [24/Nov/2014:16:00:07 +0530] "GET /Online_Exam/css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Nov/2014:16:00:07 +0530] "GET /Online_Exam/images/home_1.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [24/Nov/2014:16:00:07 +0530] "GET /Online_Exam/js/image_slide.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Nov/2014:16:00:07 +0530] "GET /Online_Exam/js/jquery.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [24/Nov/2014:16:00:07 +0530] "GET /Online_Exam/images/home_2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [24/Nov/2014:16:00:07 +0530] "GET /Online_Exam/images/content_image1.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [24/Nov/2014:16:00:08 +0530] "GET /Online_Exam/images/transparent.png HTTP/1.1" 304 -
+127.0.0.1 - - [24/Nov/2014:16:00:08 +0530] "GET /favicon.ico HTTP/1.1" 404 973

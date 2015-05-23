@@ -1,0 +1,5 @@
+127.0.0.1 - - [15/Apr/2015:18:24:57 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [15/Apr/2015:18:24:59 +0530] "GET /Wage_System/index.jsp HTTP/1.1" 200 575
+127.0.0.1 - - [15/Apr/2015:18:25:00 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [15/Apr/2015:18:25:18 +0530] "GET /Wage_System/index.jsp?Job+Discription=sdsd&Start+date=2015-04-01&End+date=2015-04-08&Renumeration=2232 HTTP/1.1" 200 575
+127.0.0.1 - - [15/Apr/2015:18:29:12 +0530] "GET /Wage_System/index.jsp?Job+Discription=sdsd&Start+date=2015-04-01&End+date=2015-04-08&Renumeration=2232 HTTP/1.1" 200 810

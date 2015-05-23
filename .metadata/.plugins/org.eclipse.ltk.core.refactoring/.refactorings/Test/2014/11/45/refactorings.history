@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy source folder &apos;poi-3.9.jar&apos; to &apos;lib&apos;&#x0A;- Original project: &apos;Test&apos;&#x0A;- Destination element: &apos;lib&apos;&#x0A;- Original element: &apos;Test/poi-3.9.jar&apos;" description="Copy source folder" element1="/poi-3.9.jar" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1415261462033" target="/Canteen_Managment/WebContent/WEB-INF/lib" version="1.0"/>
+</session>

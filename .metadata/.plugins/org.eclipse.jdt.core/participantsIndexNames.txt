@@ -1,0 +1,23 @@
+INDEX VERSION 1.127
+/home/aditya/Desktop/Java Work2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1201557170.index
+/UptuCollect/src
+/home/aditya/Desktop/Java Work2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1587432709.index
+/WomenSafety/src
+/home/aditya/Desktop/Java Work2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3482274557.index
+/Voting Project/src
+/home/aditya/Desktop/Java Work2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4222424694.index
+/JSPDemo/src
+/home/aditya/Desktop/Java Work2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3758169091.index
+/Voting Project/src
+/home/aditya/Desktop/Java Work2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2610258550.index
+/Online_Exam1/src
+/home/aditya/Desktop/Java Work2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/313383463.index
+/MySpringMvc/src/main/java
+/home/aditya/Desktop/Java Work2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/858650138.index
+/Canteen_Managment/src
+/home/aditya/Desktop/Java Work2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/957368209.index
+/Wage_System/src
+/home/aditya/Desktop/Java Work2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3514242183.index
+/Struts2/src
+/home/aditya/Desktop/Java Work2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4080665330.index
+/WebService/src

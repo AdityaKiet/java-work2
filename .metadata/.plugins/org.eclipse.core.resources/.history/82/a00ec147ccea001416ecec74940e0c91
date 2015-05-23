@@ -1,0 +1,5 @@
+dbtype=mysql
+userid=root
+password=ainaa
+dburl=jdbc:mysql://localhost:3306/gda
+drivername=com.mysql.jdbc.Driver

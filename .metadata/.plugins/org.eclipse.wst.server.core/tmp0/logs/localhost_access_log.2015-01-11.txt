@@ -1,0 +1,16 @@
+127.0.0.1 - - [11/Jan/2015:15:39:32 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [11/Jan/2015:15:39:44 +0530] "GET /Struts2/welcome.jsp HTTP/1.1" 200 279
+127.0.0.1 - - [11/Jan/2015:15:39:44 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [11/Jan/2015:15:40:17 +0530] "GET /Struts2/welcomeuser HTTP/1.1" 200 291
+127.0.0.1 - - [11/Jan/2015:15:57:31 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [11/Jan/2015:15:57:34 +0530] "GET /Struts2/login.jsp HTTP/1.1" 200 701
+127.0.0.1 - - [11/Jan/2015:15:58:11 +0530] "GET /Struts2/login.jsp HTTP/1.1" 200 705
+127.0.0.1 - - [11/Jan/2015:15:58:31 +0530] "GET /Struts2/login.jsp HTTP/1.1" 200 817
+127.0.0.1 - - [11/Jan/2015:15:58:59 +0530] "GET /Struts2/login.jsp HTTP/1.1" 200 917
+127.0.0.1 - - [11/Jan/2015:15:59:32 +0530] "GET /Struts2/login.jsp HTTP/1.1" 200 1225
+127.0.0.1 - - [11/Jan/2015:15:59:32 +0530] "GET /Struts2/struts/tooltip.gif HTTP/1.1" 200 336
+127.0.0.1 - - [11/Jan/2015:15:59:32 +0530] "GET /Struts2/struts/domTT.js HTTP/1.1" 200 22220
+127.0.0.1 - - [11/Jan/2015:15:59:32 +0530] "GET /Struts2/struts/domTT.css HTTP/1.1" 200 1248
+127.0.0.1 - - [11/Jan/2015:16:06:57 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [11/Jan/2015:16:06:59 +0530] "GET /Struts2/login.jsp HTTP/1.1" 200 1241
+127.0.0.1 - - [11/Jan/2015:16:07:07 +0530] "POST /Struts2/login.action HTTP/1.0" 200 289

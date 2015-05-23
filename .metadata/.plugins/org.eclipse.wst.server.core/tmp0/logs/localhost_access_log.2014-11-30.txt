@@ -1,0 +1,9 @@
+127.0.0.1 - - [30/Nov/2014:15:25:13 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [30/Nov/2014:15:25:24 +0530] "GET /Login/login.html HTTP/1.1" 200 478
+127.0.0.1 - - [30/Nov/2014:15:25:24 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [30/Nov/2014:15:25:34 +0530] "GET /Login/login?userid=1234&password=1234 HTTP/1.1" 200 27
+127.0.0.1 - - [30/Nov/2014:15:25:48 +0530] "GET /Login/login.html HTTP/1.1" 200 477
+127.0.0.1 - - [30/Nov/2014:15:25:48 +0530] "GET /Login/login.html HTTP/1.1" 304 -
+127.0.0.1 - - [30/Nov/2014:15:25:54 +0530] "GET /Login/login?userid=aditya&password=aditya&branch=aditya HTTP/1.1" 200 31
+127.0.0.1 - - [30/Nov/2014:15:26:32 +0530] "GET /Login/login.html HTTP/1.1" 304 -
+127.0.0.1 - - [30/Nov/2014:15:26:35 +0530] "GET /Login/login?userid=1&password=1&branch=1 HTTP/1.1" 200 47

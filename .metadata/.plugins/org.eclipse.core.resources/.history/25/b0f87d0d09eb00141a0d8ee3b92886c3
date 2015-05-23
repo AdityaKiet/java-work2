@@ -1,0 +1,20 @@
+package org.sms.jfreesms;
+
+import org.sms.jfreesms.exception.NotAuthenticatedException;
+import org.sms.jfreesms.sms160by2.SMS160by2;
+import org.sms.jfreesms.way2sms.Way2SMS;
+
+public class SendSMS {
+
+	public boolean send(){
+	SMS sms = new SMS160by2();
+	sms.login("9761604697","7279");
+	System.out.println(sms.isAuthenticated());
+	try {
+	    sms.send("8267894544", "hi!");
+	    sms.send("9761604698", "hello!!");
+	} catch (NotAuthenticatedException ex) {
+	    ex.printStackTrace();
+	}
+}
+}
